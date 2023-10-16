@@ -6,7 +6,7 @@
 Клонируем репозиторий
 ```git clone https://github.com/kerplunk1/morphological.git```
 
-Переходим клонированный репозиторий
+Переходим в клонированный репозиторий
 ```cd morphological```
 
 Запускаем в докер
